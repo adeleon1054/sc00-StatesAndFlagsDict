@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Alabama</key>
+	<dict>
+		<key>Name</key>
+		<string>Alabama</string>
+		<key>Motto</key>
+		<string>Audemus Jura Nostra Defendere</string>
+		<key>FlagIcon</key>
+		<string>Flags/Small/alabama-flag-small</string>
+		<key>FlagImage</key>
+		<string>Flags/Large/alabama-flag-medium</string>
+	</dict>
+	<key>Alaska</key>
+	<dict>
+		<key>Name</key>
+		<string>Alaska</string>
+		<key>Motto</key>
+		<string>Inter Aquilonem et al futurum</string>
+		<key>FlagIcon</key>
+		<string>Flags/Small/alaska-flag-small</string>
+		<key>FlagImage</key>
+		<string>Flags/Large/alaska-flag-medium</string>
+	</dict>
+	<key>Arizona</key>
+	<dict>
+		<key>Name</key>
+		<string>Arizona</string>
+		<key>Motto</key>
+		<string>Ditat Deus</string>
+		<key>FlagIcon</key>
+		<string>Flags/Small/arizona-flag-small</string>
+		<key>FlagImage</key>
+		<string>Flags/Large/arizona-flag-medium</string>
+	</dict>
+	<key>Arkansas</key>
+	<dict>
+		<key>Name</key>
+		<string>Arkansas</string>
+		<key>Motto</key>
+		<string>Regnat populus</string>
+		<key>FlagIcon</key>
+		<string>Flags/Small/arkansas-flag-small</string>
+		<key>FlagImage</key>
+		<string>Flags/Large/arkansas-flag-medium</string>
+	</dict>
+</dict>
+</plist>
